@@ -1,0 +1,15 @@
+{
+    "analyzers": {
+        "core": {
+            "enabled": true,
+            "rules": {
+                "no-loc-expr-outside-params": {
+                    "level": "off"
+                },
+                "explicit-values-for-loc-params": {
+                    "level": "off"
+                }
+            }
+        }
+    }
+}
